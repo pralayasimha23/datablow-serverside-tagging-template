@@ -1,0 +1,5 @@
+homepage: "https://tracking.datablow.com"
+documentation: "https://datablow.com/docs/gtm-server-tag"
+versions:
+  - sha: "a8f48480fdc3a804edd46cdf1e7da36f71ddcf16"
+    changeNotes: "Initial release of Datablow Connect Tag for GTM Server containers."
